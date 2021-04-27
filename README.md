@@ -217,7 +217,7 @@ git clone https://github.com/OYCodeSite/GuliEdu.git
 
 * 创建数据库guli_edu并导入数据脚本sql / **
 
-  ![image-20210428001500053](https://oss.imoyt.top/img/20210428001500.png)
+  ![image-20210428001500053](https://oss.imoyt.top/img/20210428004954.png)
 
 * 修改各个模块的application.properties文件的MySQL配置信息
 
