@@ -4,6 +4,8 @@
 
 谷粒学院项目致力于打造一个B2C模式的职业技能在线教育系统平台，采用现阶段流行技术来实现，采用前后端分离编写。
 
+[国内访问Gitee](https://gitee.com/oycodesite/GuliEdu.git)
+
 ## 项目学习资源
 
 - 项目文档
@@ -12,9 +14,9 @@
 
 - 接口文档
 
-  - 谷粒学院后台接口:  https://github.com/OYCodeSite/GuliEdu.git
-  - 谷粒学院后台UI:  https://github.com/OYCodeSite/GuliEdu_AdminUI.git
-  - 谷粒学院前台UI： https://github.com/OYCodeSite/GuliEdu_FrontUI.git
+  - 谷粒学院后台接口:  https://gitee.com/oycodesite/GuliEdu.git
+  - 谷粒学院后台UI:  https://gitee.com/oycodesite/GuliEdu_AdminUI.git
+  - 谷粒学院前台UI： https://gitee.com/oycodesite/GuliEdu_FrontUI.git
 
 ## 项目介绍
 
@@ -217,7 +219,7 @@ git clone https://github.com/OYCodeSite/GuliEdu.git
 
 * 创建数据库guli_edu并导入数据脚本sql / **
 
-  ![image-20210428001500053](https://oss.imoyt.top/img/20210428001500.png)
+  ![image-20210428001500053](https://oss.imoyt.top/img/20210428004954.png)
 
 * 修改各个模块的application.properties文件的MySQL配置信息
 
@@ -287,8 +289,8 @@ aliyun.vod.file.keysecret=<you keysecret>
 
 >**启动后台管理UI**
 
-* https://github.com/OYCodeSite/GuliEdu_AdminUI.git
+* https://gitee.com/oycodesite/GuliEdu_AdminUI.git
 
 >**启动前台Web UI**
 
-* https://github.com/OYCodeSite/GuliEdu_FrontUI.git
+* https://gitee.com/oycodesite/GuliEdu_FrontUI.git
