@@ -4,6 +4,8 @@
 
 谷粒学院项目致力于打造一个B2C模式的职业技能在线教育系统平台，采用现阶段流行技术来实现，采用前后端分离编写。
 
+[GitHub 地址](https://github.com/OYCodeSite/GuliEdu.git)
+
 [国内访问Gitee](https://gitee.com/oycodesite/GuliEdu.git)
 
 ## 项目学习资源
@@ -14,9 +16,9 @@
 
 - 接口文档
 
-  - 谷粒学院后台接口:  https://gitee.com/oycodesite/GuliEdu.git
-  - 谷粒学院后台UI:  https://gitee.com/oycodesite/GuliEdu_AdminUI.git
-  - 谷粒学院前台UI： https://gitee.com/oycodesite/GuliEdu_FrontUI.git
+  - 谷粒学院后台接口:  https://github.com/OYCodeSite/GuliEdu.git
+  - 谷粒学院后台UI:  https://github.com/OYCodeSite/GuliEdu_AdminUI.git
+  - 谷粒学院前台UI： https://github.com/OYCodeSite/GuliEdu_FrontUI.git
 
 ## 项目介绍
 
@@ -289,7 +291,7 @@ aliyun.vod.file.keysecret=<you keysecret>
 
 >**启动后台管理UI**
 
-* https://gitee.com/oycodesite/GuliEdu_AdminUI.git
+* https://github.com/OYCodeSite/GuliEdu_AdminUI.git
 
 >**启动前台Web UI**
 
