@@ -293,8 +293,5 @@ aliyun.vod.file.keysecret=<you keysecret>
 
 >**启动前台Web UI**
 
-<<<<<<< HEAD
-* https://gitee.com/oycodesite/GuliEdu_FrontUI.git
-=======
 * https://github.com/OYCodeSite/GuliEdu_FrontUI.git
->>>>>>> 2357974c908613580befd370262fc6ab67c47749
+
